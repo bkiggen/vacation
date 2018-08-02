@@ -9,3 +9,10 @@ body{
 .container {
   margin-top: 10px;
 }
+
+img {
+  height: 300px;
+  width: 100%;
+  border: 1px solid white;
+  border-radius: 15px;
+}
